@@ -11,4 +11,12 @@
     Anderson Brantes
   </author>
 
+  <icon src="icon.png" />
+  <!-- ANDROID 720x1280px -->
+  <gap:splash src="splash.png" />
+
+  <preference name="orientation" value="portrait" />
+  <preference name="permissions" value="none" />
+  <gap:platform name="android" />
+
 </widget>
